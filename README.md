@@ -1,6 +1,4 @@
 # Hyperspectral-Image-Cross-Scene-Classification
-
-    List of papers related to domain adaptation
 Title|Venue|Year|Code
 :-|:-|:-|:-
 [Multisource Domain Generalization Two-Branch Network for Hyperspectral Image Cross-Domain Classification](https://ieeexplore.ieee.org/document/10410893)|TGRS|2024|[Code](https://github.com/Cherrieqi/MDGTnet)
@@ -17,7 +15,7 @@ Title|Venue|Year|Code
 [Contrastive Learning Based on Category Matching for Domain Adaptation in Hyperspectral Image Classification](https://ieeexplore.ieee.org/abstract/document/10183880)|TGRS|2023|
 
 
-        Domain Adaptation in Non-Hyperspectral Domains
+# Domain Adaptation in Non-Hyperspectral Domains
 Title|Venue|Year|Code
 :-|:-|:-|:-
 [Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2024/papers/Ngo_Learning_CNN_on_ViT_A_Hybrid_Model_to_Explicitly_Class-specific_CVPR_2024_paper.pdf)|CVPR|2024|[Code](https://github.com/dotrannhattuong/ECB)
