@@ -12,6 +12,8 @@ Title|Venue|Year|Code
 [HyUniDA: Breaking Label Set Constraints for Universal Domain Adaptation in Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10530296)|TGRS|2024|
 [Domain Invariant and Compact Prototype Contrast Adaptation for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10452267)|TGRS|2024|
 [Easy-to-Hard Domain Adaptation With Human Interaction for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10415093)|TGRS|2024|
+[Soft Instance-Level Domain Adaptation With Virtual Classifier for Unsupervised Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10102293)|TGRS|2023|
+[Supervised Contrastive Learning-Based Unsupervised Domain Adaptation for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10255730)|TGRS|2023|[Code](https://github.com/Li-ZK/SCLUDA-2023)
 
 
 
