@@ -1,6 +1,6 @@
 # Hyperspectral-Image-Cross-Scene-Classification
 
-
+    List of papers related to domain adaptation
 Title|Venue|Year|Code
 :-|:-|:-|:-
 [Multisource Domain Generalization Two-Branch Network for Hyperspectral Image Cross-Domain Classification](https://ieeexplore.ieee.org/document/10410893)|TGRS|2024|[Code](https://github.com/Cherrieqi/MDGTnet)
