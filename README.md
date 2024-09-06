@@ -14,7 +14,7 @@ Title|Venue|Year|Code
 [Easy-to-Hard Domain Adaptation With Human Interaction for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10415093)|TGRS|2024|
 [Soft Instance-Level Domain Adaptation With Virtual Classifier for Unsupervised Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10102293)|TGRS|2023|
 [Supervised Contrastive Learning-Based Unsupervised Domain Adaptation for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10255730)|TGRS|2023|[Code](https://github.com/Li-ZK/SCLUDA-2023)
-
+[Contrastive Learning Based on Category Matching for Domain Adaptation in Hyperspectral Image Classification](https://ieeexplore.ieee.org/abstract/document/10183880)|TGRS|2023|
 
 
 #mamba
