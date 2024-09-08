@@ -1,7 +1,6 @@
 # Hyperspectral-Image-Cross-Scene-Classification
 Title|Venue|Year|Code
 :-|:-|:-|:-
-[Multisource Domain Generalization Two-Branch Network for Hyperspectral Image Cross-Domain Classification](https://ieeexplore.ieee.org/document/10410893)|TGRS|2024|[Code](https://github.com/Cherrieqi/MDGTnet)
 [Dual-Branch Domain Adaptation Few-Shot Learning for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10409242/metrics#metrics)|TGRS|2024|
 [Mind the Gap: Multilevel Unsupervised Domain Adaptation for Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10543066)|TGRS|2024|[Code](https://github.com/cfcys/TGRS_MLUDA-2024)
 [Masked Self-Distillation Domain Adaptation for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10620320)|TGRS|2024|[Code](https://github.com/Li-ZK/MSDA-2024)
