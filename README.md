@@ -18,5 +18,6 @@ Title|Venue|Year|Code
 Title|Venue|Year|Code
 :-|:-|:-|:-
 [Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2024/papers/Ngo_Learning_CNN_on_ViT_A_Hybrid_Model_to_Explicitly_Class-specific_CVPR_2024_paper.pdf)|CVPR|2024|[Code](https://github.com/dotrannhattuong/ECB)
+[Revisiting Prototypical Network for Cross Domain Few-Shot Learning](https://ieeexplore.ieee.org/document/10204253)|CVPR|2023|[Code](https://github.com/NWPUZhoufei/LDP-Net)
 [Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/9577429)|CVPR|2021|[Code](https://github.com/zhengzangw/PCS-FUDA)
 #mamba
