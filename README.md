@@ -17,6 +17,7 @@ Title|Venue|Year|Code
 [Dual-Stream Discriminative Attention Network for Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10504888)|TGRS|2024|
 [Two-Stage Domain Alignment Single-Source Domain Generalization Network for Cross-Scene Hyperspectral Images Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10637422)|TGRS|2024|
 [Classwise Prototype-Guided Alignment Network for Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10632063)|TGRS|2024|
+[Adaptive Graph Modeling With Self-Training for Heterogeneous Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379170)|TGRS|2024|
 
 # Domain Adaptation in Non-Hyperspectral Domains
 Title|Venue|Year|Code
