@@ -26,4 +26,5 @@ Title|Venue|Year|Code
 [Revisiting Prototypical Network for Cross Domain Few-Shot Learning](https://ieeexplore.ieee.org/document/10204253)|CVPR|2023|[Code](https://github.com/NWPUZhoufei/LDP-Net)
 [Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/9577429)|CVPR|2021|[Code](https://github.com/zhengzangw/PCS-FUDA)
 [Contrastive Adaptation Network for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/8954037)|CVPR|2019|[Code](https://github.com/kgl-prml/Contrastive-Adaptation-Network-for-Unsupervised-Domain-Adaptation)
+[Low Category Uncertainty and High Training Potential Instance Learning for Unsupervised Domain Adaptation](https://ojs.aaai.org/index.php/AAAI/article/view/29630)|AAAI|2024|[Code](https://github.com/zxyzxyhh/LUHP)
 #mamba
