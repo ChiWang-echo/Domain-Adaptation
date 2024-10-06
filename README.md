@@ -14,7 +14,9 @@ Title|Venue|Year|Code
 [Contrastive Learning Based on Category Matching for Domain Adaptation in Hyperspectral Image Classification](https://ieeexplore.ieee.org/abstract/document/10183880)|TGRS|2023|
 [Lightweight Spectral–Spatial Feature ExtractionNetwork Based on Domain Generalization for Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10596290)|TGRS|2024|[Code](https://github.com/zhulongyu1234/ACB/tree/master/program)
 [Spectral–Spatial Enhancement and Causal Constraint for Hyperspectral Image Cross-Scene Classification](https://github.com/pipi-jia/TGRS2024_S2ECNet)|TGRS|2024|[Code](https://github.com/pipi-jia/TGRS2024_S2ECNet)
-[Dual-Stream Discriminative Attention Network for Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10504888)|TGRS|2024|[Code]|
+[Dual-Stream Discriminative Attention Network for Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10504888)|TGRS|2024|
+[Two-Stage Domain Alignment Single-Source Domain Generalization Network for Cross-Scene Hyperspectral Images Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10637422)|TGRS|2024|
+[Classwise Prototype-Guided Alignment Network for Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10632063)|TGRS|2024|
 
 # Domain Adaptation in Non-Hyperspectral Domains
 Title|Venue|Year|Code
