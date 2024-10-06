@@ -12,7 +12,7 @@ Title|Venue|Year|Code
 [Soft Instance-Level Domain Adaptation With Virtual Classifier for Unsupervised Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10102293)|TGRS|2023|
 [Supervised Contrastive Learning-Based Unsupervised Domain Adaptation for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10255730)|TGRS|2023|[Code](https://github.com/Li-ZK/SCLUDA-2023)
 [Contrastive Learning Based on Category Matching for Domain Adaptation in Hyperspectral Image Classification](https://ieeexplore.ieee.org/abstract/document/10183880)|TGRS|2023|
-[Lightweight Spectral–Spatial Feature ExtractionNetwork Based on Domain Generalization for Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10596290|TGRS|2024|[Code](https://github.com/zhulongyu1234/ACB/tree/master/program)
+[Lightweight Spectral–Spatial Feature ExtractionNetwork Based on Domain Generalization for Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10596290)|TGRS|2024|[Code](https://github.com/zhulongyu1234/ACB/tree/master/program)
 
 # Domain Adaptation in Non-Hyperspectral Domains
 Title|Venue|Year|Code
