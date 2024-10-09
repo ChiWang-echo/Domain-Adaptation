@@ -27,5 +27,5 @@ Title|Venue|Year|Code|Note
 [Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/9577429)|CVPR|2021|[Code](https://github.com/zhengzangw/PCS-FUDA)|[Note]
 [Contrastive Adaptation Network for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/8954037)|CVPR|2019|[Code](https://github.com/kgl-prml/Contrastive-Adaptation-Network-for-Unsupervised-Domain-Adaptation)|[Note]
 [Low Category Uncertainty and High Training Potential Instance Learning for Unsupervised Domain Adaptation](https://ojs.aaai.org/index.php/AAAI/article/view/29630)|AAAI|2024|[Code](https://github.com/zxyzxyhh/LUHP)|[Note](https://www.yuque.com/g/cuixidaniya/cp8b8m/dx9umi0on9ux7wok/collaborator/join?token=tV2eXVWM0ugCnHgq&source=doc_collaborator)
-[Rethinking Propagation for Unsupervised Graph Domain Adaptation](https://ojs.aaai.org/index.php/AAAI/article/view/29304)|AAAI|2024|[Code](https://github.com/Meihan-Liu/24AAAI-A2GNN)
+[Rethinking Propagation for Unsupervised Graph Domain Adaptation](https://ojs.aaai.org/index.php/AAAI/article/view/29304)|AAAI|2024|[Code](https://github.com/Meihan-Liu/24AAAI-A2GNN)|[Note](https://www.yuque.com/g/cuixidaniya/cp8b8m/rc6olzgpxxm3h67u/collaborator/join?token=AiQGVyJ2sd0gjm0T&source=doc_collaborator)
 #mamba
