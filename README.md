@@ -21,11 +21,11 @@ Title|Venue|Year|Code
 
 # Domain Adaptation in Non-Hyperspectral Domains
 Title|Venue|Year|Code|Note
-:-|:-|:-|:-
-[Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2024/papers/Ngo_Learning_CNN_on_ViT_A_Hybrid_Model_to_Explicitly_Class-specific_CVPR_2024_paper.pdf)|CVPR|2024|[Code](https://github.com/dotrannhattuong/ECB)
-[Revisiting Prototypical Network for Cross Domain Few-Shot Learning](https://ieeexplore.ieee.org/document/10204253)|CVPR|2023|[Code](https://github.com/NWPUZhoufei/LDP-Net)
-[Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/9577429)|CVPR|2021|[Code](https://github.com/zhengzangw/PCS-FUDA)
-[Contrastive Adaptation Network for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/8954037)|CVPR|2019|[Code](https://github.com/kgl-prml/Contrastive-Adaptation-Network-for-Unsupervised-Domain-Adaptation)
+:-|:-|:-|:-|:-
+[Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2024/papers/Ngo_Learning_CNN_on_ViT_A_Hybrid_Model_to_Explicitly_Class-specific_CVPR_2024_paper.pdf)|CVPR|2024|[Code](https://github.com/dotrannhattuong/ECB)|[Note]
+[Revisiting Prototypical Network for Cross Domain Few-Shot Learning](https://ieeexplore.ieee.org/document/10204253)|CVPR|2023|[Code](https://github.com/NWPUZhoufei/LDP-Net)|[Note]
+[Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/9577429)|CVPR|2021|[Code](https://github.com/zhengzangw/PCS-FUDA)|[Note]
+[Contrastive Adaptation Network for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/8954037)|CVPR|2019|[Code](https://github.com/kgl-prml/Contrastive-Adaptation-Network-for-Unsupervised-Domain-Adaptation)|[Note]
 [Low Category Uncertainty and High Training Potential Instance Learning for Unsupervised Domain Adaptation](https://ojs.aaai.org/index.php/AAAI/article/view/29630)|AAAI|2024|[Code](https://github.com/zxyzxyhh/LUHP)|[Note](https://www.yuque.com/g/cuixidaniya/cp8b8m/dx9umi0on9ux7wok/collaborator/join?token=tV2eXVWM0ugCnHgq&source=doc_collaborator# 《Low Category Uncertainty and High Training Potential Instance Learning for Unsupervised Domain Adaptation》)
 [Rethinking Propagation for Unsupervised Graph Domain Adaptation](https://ojs.aaai.org/index.php/AAAI/article/view/29304)|AAAI|2024|[Code](https://github.com/Meihan-Liu/24AAAI-A2GNN)
 #mamba
