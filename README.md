@@ -15,7 +15,7 @@ Title|Venue|Year|Code|Note
 [Lightweight Spectral–Spatial Feature ExtractionNetwork Based on Domain Generalization for Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10596290)|TGRS|2024|[Code](https://github.com/zhulongyu1234/ACB/tree/master/program)
 [Spectral–Spatial Enhancement and Causal Constraint for Hyperspectral Image Cross-Scene Classification](https://github.com/pipi-jia/TGRS2024_S2ECNet)|TGRS|2024|[Code](https://github.com/pipi-jia/TGRS2024_S2ECNet)
 [Dual-Stream Discriminative Attention Network for Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10504888)|TGRS|2024||
-[Two-Stage Domain Alignment Single-Source Domain Generalization Network for Cross-Scene Hyperspectral Images Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10637422)|TGRS|2024|[Note](https://www.yuque.com/g/cuixidaniya/cp8b8m/xwa01k4du1ao8g8h/collaborator/join?token=zCd2kOuPwsdBGDqX&source=doc_collaborator)
+[Two-Stage Domain Alignment Single-Source Domain Generalization Network for Cross-Scene Hyperspectral Images Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10637422)|TGRS|2024||[Note](https://www.yuque.com/g/cuixidaniya/cp8b8m/xwa01k4du1ao8g8h/collaborator/join?token=zCd2kOuPwsdBGDqX&source=doc_collaborator)
 [Classwise Prototype-Guided Alignment Network for Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10632063)|TGRS|2024|
 [Adaptive Graph Modeling With Self-Training for Heterogeneous Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379170)|TGRS|2024|
 
