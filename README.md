@@ -3,7 +3,7 @@ Title|Venue|Year|Code|Note
 :-|:-|:-|:-|:-
 [Dual-Branch Domain Adaptation Few-Shot Learning for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10409242/metrics#metrics)|TGRS|2024|
 [Mind the Gap: Multilevel Unsupervised Domain Adaptation for Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10543066)|TGRS|2024|[Code](https://github.com/cfcys/TGRS_MLUDA-2024)|[Note](https://www.yuque.com/g/cuixidaniya/cp8b8m/hxq1o7lg8s8cnnrw/collaborator/join?token=M599Pv2PJigkfRaP&source=doc_collaborator)
-[Masked Self-Distillation Domain Adaptation for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10620320)|TGRS|2024|[Code](https://github.com/Li-ZK/MSDA-2024)
+[Masked Self-Distillation Domain Adaptation for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10620320)|TGRS|2024|[Code](https://github.com/Li-ZK/MSDA-2024)|[Note](https://www.yuque.com/g/cuixidaniya/cp8b8m/kh2f3xyt4ytvnns8/collaborator/join?token=kLqWpsOrpA9u3E0X&source=doc_collaborator)
 [Class-Aligned and Class-Balancing Generative Domain Adaptation for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10440363)|TGRS|2024|
 [Adversarial Domain Adaptation Network With Calibrated Prototype and Dynamic Instance Convolution for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10497695)|TGRS|2024||[Note](https://www.yuque.com/g/cuixidaniya/cp8b8m/clsu61xp30gwt07f/collaborator/join?token=p5ZdrSxFZVleLSJj&source=doc_collaborator#)
 [HyUniDA: Breaking Label Set Constraints for Universal Domain Adaptation in Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10530296)|TGRS|2024|
