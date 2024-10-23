@@ -1,4 +1,5 @@
 ```The list of papers on cross-scene domain adaptive hyperspectral image classification ```
+ ```The note link is my condensed notes on the paper ```
 Title|Venue|Year|Code|Note
 :-|:-|:-|:-|:-
 [Dual-Branch Domain Adaptation Few-Shot Learning for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10409242/metrics#metrics)|TGRS|2024|
@@ -21,6 +22,7 @@ Title|Venue|Year|Code|Note
 
 
 ```List of papers on Domain Adaptation in Non-Hyperspectral Domains```
+ ```The note link is my condensed notes on the paper ```
 Title|Venue|Year|Code|Note
 :-|:-|:-|:-|:-
 [Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2024/papers/Ngo_Learning_CNN_on_ViT_A_Hybrid_Model_to_Explicitly_Class-specific_CVPR_2024_paper.pdf)|CVPR|2024|[Code](https://github.com/dotrannhattuong/ECB)|[Note](https://www.yuque.com/g/cuixidaniya/cp8b8m/yru4kfognflxcton/collaborator/join?token=FripW0Wd8R4hDF2e&source=doc_collaborator)
