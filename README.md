@@ -1,4 +1,4 @@
-```The list of papers on cross-scene domain adaptive hyperspectral image classification ```
+```The list of papers on cross-scene domain adaptive hyperspectral image classification ```<br>
  ```The note link is my condensed notes on the paper ```
 Title|Venue|Year|Code|Note
 :-|:-|:-|:-|:-
@@ -21,7 +21,7 @@ Title|Venue|Year|Code|Note
 [Adaptive Graph Modeling With Self-Training for Heterogeneous Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379170)|TGRS|2024|
 
 
-```List of papers on Domain Adaptation in Non-Hyperspectral Domains```
+```List of papers on Domain Adaptation in Non-Hyperspectral Domains```<br>
  ```The note link is my condensed notes on the paper ```
 Title|Venue|Year|Code|Note
 :-|:-|:-|:-|:-
