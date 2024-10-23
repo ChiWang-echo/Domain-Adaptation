@@ -1,4 +1,4 @@
-` **The list of papers on cross-scene domain adaptive hyperspectral image classification **` 
+```The list of papers on cross-scene domain adaptive hyperspectral image classification ```
 Title|Venue|Year|Code|Note
 :-|:-|:-|:-|:-
 [Dual-Branch Domain Adaptation Few-Shot Learning for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10409242/metrics#metrics)|TGRS|2024|
