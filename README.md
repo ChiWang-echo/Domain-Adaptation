@@ -32,6 +32,13 @@ Title|Venue|Year|Code|Note
 [Low Category Uncertainty and High Training Potential Instance Learning for Unsupervised Domain Adaptation](https://ojs.aaai.org/index.php/AAAI/article/view/29630)|AAAI|2024|[Code](https://github.com/zxyzxyhh/LUHP)|[Note](https://www.yuque.com/g/cuixidaniya/cp8b8m/dx9umi0on9ux7wok/collaborator/join?token=tV2eXVWM0ugCnHgq&source=doc_collaborator)
 [Rethinking Propagation for Unsupervised Graph Domain Adaptation](https://ojs.aaai.org/index.php/AAAI/article/view/29304)|AAAI|2024|[Code](https://github.com/Meihan-Liu/24AAAI-A2GNN)|[Note](https://www.yuque.com/g/cuixidaniya/cp8b8m/rc6olzgpxxm3h67u/collaborator/join?token=AiQGVyJ2sd0gjm0T&source=doc_collaborator)
 
+# Mamba for HSI
+#### The List of papers on hyperspectral image classification using Mamba
+#### The note link is my condensed notes on the paper 
+Title|Venue|Year|Code|Note
+:-|:-|:-|:-|:-
+[3DSS-Mamba: 3D-Spectral–Spatial Mamba for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10703171)|TGRS|2024|[Code](https://github.com/IIP-Team/3DSS-Mamba)|[Note](https://www.yuque.com/g/cuixidaniya/cp8b8m/mk9ypnpg5olxk9ke/collaborator/join?token=RBE0oSDN5WJPIS0s&source=doc_collaborator)
+[HyperMamba: A Spectral-Spatial Adaptive Mamba for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10720896)|TGRS|2024|[Code](https://github.com/chiangliu/HyperMamba)|[Note](https://www.yuque.com/g/cuixidaniya/cp8b8m/yi8p7bz6gf9u9ogr/collaborator/join?token=GnLTUiUeBEcgtxHY&source=doc_collaborator)
 
 # Knowledge-Distillation
 Title|Venue|Year|Code
