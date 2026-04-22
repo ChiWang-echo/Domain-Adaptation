@@ -1,5 +1,5 @@
-```The list of papers on cross-scene domain adaptive hyperspectral image classification ```<br>
- ```The note link is my condensed notes on the paper ```
+# The list of papers on cross-scene domain adaptive hyperspectral image classification
+#### The note link is my condensed notes about the paper
 Title|Venue|Year|Code|Note
 :-|:-|:-|:-|:-
 [Content-Biased and Style-Assisted Transfer Network for Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10678753)|TGRS|2024|[Code](https://github.com/nbdszw/CSTnet)|[Note](https://www.yuque.com/g/cuixidaniya/cp8b8m/ggk4qfb944icwqev/collaborator/join?token=n6Ry60z6vT3Z2TVB&source=doc_collaborator)
@@ -21,9 +21,8 @@ Title|Venue|Year|Code|Note
 [Classwise Prototype-Guided Alignment Network for Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10632063)|TGRS|2024|
 [Adaptive Graph Modeling With Self-Training for Heterogeneous Cross-Scene Hyperspectral Image Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379170)|TGRS|2024|
 
-
-```List of papers on Domain Adaptation in Non-Hyperspectral Domains```<br>
- ```The note link is my condensed notes on the paper ```
+# List of papers on Domain Adaptation in Non-Hyperspectral Domains
+#### The note link is my condensed notes about the paper
 Title|Venue|Year|Code|Note
 :-|:-|:-|:-|:-
 [Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2024/papers/Ngo_Learning_CNN_on_ViT_A_Hybrid_Model_to_Explicitly_Class-specific_CVPR_2024_paper.pdf)|CVPR|2024|[Code](https://github.com/dotrannhattuong/ECB)|[Note](https://www.yuque.com/g/cuixidaniya/cp8b8m/yru4kfognflxcton/collaborator/join?token=FripW0Wd8R4hDF2e&source=doc_collaborator)
@@ -32,4 +31,11 @@ Title|Venue|Year|Code|Note
 [Contrastive Adaptation Network for Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/8954037)|CVPR|2019|[Code](https://github.com/kgl-prml/Contrastive-Adaptation-Network-for-Unsupervised-Domain-Adaptation)|[Note]
 [Low Category Uncertainty and High Training Potential Instance Learning for Unsupervised Domain Adaptation](https://ojs.aaai.org/index.php/AAAI/article/view/29630)|AAAI|2024|[Code](https://github.com/zxyzxyhh/LUHP)|[Note](https://www.yuque.com/g/cuixidaniya/cp8b8m/dx9umi0on9ux7wok/collaborator/join?token=tV2eXVWM0ugCnHgq&source=doc_collaborator)
 [Rethinking Propagation for Unsupervised Graph Domain Adaptation](https://ojs.aaai.org/index.php/AAAI/article/view/29304)|AAAI|2024|[Code](https://github.com/Meihan-Liu/24AAAI-A2GNN)|[Note](https://www.yuque.com/g/cuixidaniya/cp8b8m/rc6olzgpxxm3h67u/collaborator/join?token=AiQGVyJ2sd0gjm0T&source=doc_collaborator)
-#mamba
+
+
+# Knowledge-Distillation
+Title|Venue|Year|Code
+:-|:-|:-|:-
+[Multi-Mode Online Knowledge Distillation for Self-Supervised Visual Representation Learning](/https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Multi-Mode_Online_Knowledge_Distillation_for_Self-Supervised_Visual_Representation_Learning_CVPR_2023_paper.pdf)|CVPR|2023|[Code](https://github.com/skyoux/mokd)
+[C2KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation](https://github.com/huofushuo/C2KD/)|CVPR|2024|[Code](https://github.com/huofushuo/C2KD/)
+
